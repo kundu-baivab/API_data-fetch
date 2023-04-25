@@ -86,7 +86,7 @@ Example response:
 
 ## Frontend Repository Link
 
-👉[Client](https://github.com/facebook/create-react-app)
+👉[Client](https://github.com/kundu-baivab/api_data-fetch-client.git)
 
 ## Built With
 
