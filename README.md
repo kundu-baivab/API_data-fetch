@@ -88,6 +88,16 @@ Example response:
 
 👉[Client](https://github.com/kundu-baivab/api_data-fetch-client.git)
 
+## How to host the project on local device
+
+Copy the entire server folder in your device.
+Open the folder using VS Code.
+Open terminal in git bash and type nodemon app.js to start the backend server and to connect to MongoDB Atlas Database.
+
+Copy the entire client folder to your device which you would get by clicking on the link above.
+Open it with VS Code on your device.
+Open terminal and type npm start to start the website.
+
 ## Built With
 
 - Node.js
